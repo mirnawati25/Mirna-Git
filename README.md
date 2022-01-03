@@ -136,6 +136,7 @@ git push -u origin main
 ## **Cek File**
 
 Setelah itu, cek repository yang telah di buat. akan mendapati file-file yang telah ditambahkan sebelumnya. Pada tutorial ini kami menambahkan tiga file, yaitu index.php, ScreenShot/, dan README.md.
+![.](ScreenShot/30pg)
 
 ## **Kesimpulan**
 
